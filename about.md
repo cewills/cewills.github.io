@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Cameron Wills is a second year chemistry major from Roseville, California.
 
 ### More Information
 
