@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Cameron Wills is a second year chemistry major from Roseville, California. His current enrollment in Organic Chemistry has given him knowledge of the fundamental tools of Organic Chemistry. He is anticipating joining a professor's research team over the summmer.
+Cameron Wills is a second year chemistry major from Roseville, California. His current enrollment in Organic Chemistry has given him knowledge of the fundamental tools of Organic Chemistry. He is hoping to join a professor's research team over the summmer or in the fall.
 
 ### Personal Information
 
